@@ -1,0 +1,98 @@
+/*header start*/
+header{
+
+}
+.container {
+	margin-left:150px;
+	width: 40%;
+	float:left;
+	
+}
+/*logo start*/
+.logo {
+    width: 20%;
+    margin-top: 18px;
+    margin-left: 80px;
+    float: left;
+}
+.logo a{
+	display:block;
+}
+.logo a img {
+	width: 100%;
+}
+/*logo end*/
+
+/*menu start*/
+.menu {
+	margin-top: 8px;
+    margin-right: 75px;
+    width: 55%;
+    float: right;
+}
+.menu ul {
+	float:right;
+	
+}
+.menu ul li {
+	float:left;
+    list-style: none;
+   }
+.menu ul li a {
+	color: #333;
+	display: block;
+	text-decoration: none;
+	padding: 0px 15px;
+}
+.menu ul li a:hover {
+    color: #FF6162;
+}
+/*menu end*/
+/*purchase button start*/
+ 
+.button{
+	max-width: 20%;
+    float: right;
+    margin-top: 25px;
+    margin-right: 380px
+} 
+.button a{
+	width: 100%;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    background-color: #FF6162;
+    float: left;
+    padding: 7px;
+}
+/*purchase button end*/
+/*banner start*/
+section{
+
+}
+.container2{
+
+}
+.banner{
+
+}
+.banner h1{
+
+}
+.banner article{
+
+}
+.image{
+
+
+}
+.image img{
+	
+}
+
+
+
+
+
+/*banner end*/
+
