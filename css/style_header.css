@@ -64,6 +64,8 @@ header{
     background-color: #FF6162;
     float: left;
     padding: 7px;
+    border: none;
+    border-radius: 5px;
 }
 /*purchase button end*/
 /*banner start*/
