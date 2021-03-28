@@ -63,38 +63,59 @@ header{
     text-align: center;
     background-color: #FF6162;
     float: left;
-    padding: 7px;
+    padding: 15px 20px;
     border: none;
     border-radius: 5px;
+}
+.button a:hover{
+	background:#333 ;
 }
 /*purchase button end*/
 /*banner start*/
 section{
+	padding: 100px 0;
+	overflow: hidden;
 
 }
 .container2{
+	max-width: 1100px;
+	margin-left:250px;
 
 }
-.banner{
+.banner-text{
+	width: 48%;
+	margin-top:40px;
+	float: left;
 
 }
-.banner h1{
+.banner-text h1{
+	font-family:sans-serif;
+	font-size:46px;
+	font-weight: 700;
 
 }
-.banner article{
+.banner-text article{
+	color:#A2A4CB;
+	font-size: 18px;
+	font-weight:400;
+	line-height: 1.5;
+	margin-top:25px; 
 
 }
-.image{
-
+.down-arrow{
+	color:#D5D6D7;
+	font-size:20px;
+}
+.banner-image{
+	width: 50%;
+	
+	float:right;
+	text-align: right;
 
 }
-.image img{
+.banner-image img{
+	width:500px;
 	
 }
-
-
-
-
-
 /*banner end*/
 
